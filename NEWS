@@ -1,3 +1,15 @@
+= gitg 0.0.7 =
+Version 0.0.7 was released on 2010-12-29
+
+== Features ==
+  * Reworked UI for revision details
+  * Per line stage/unstage
+
+== Bug fixes ==
+  * Improved charset conversion
+  * Fix showing recently used items
+  * Various DND fixes
+
 = gitg 0.0.6 =
 Version 0.0.6 was released on 2010-02-21
 
