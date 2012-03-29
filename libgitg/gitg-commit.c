@@ -307,7 +307,7 @@ add_files (GitgCommit  *commit,
 
 	while ((line = *buffer++) != NULL)
 	{
-		gchar **parts = g_strsplit_set (line, " \t", 0);
+		gchar **parts = g_strsplit_set (line, " \t", 6);
 		guint len = g_strv_length (parts);
 
 		if (len < 6)
